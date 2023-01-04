@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I obtained my B.E. degree of Information Security from <a href="http://en.hit.edu.cn/">Harbin Institute of Technology (HIT)</a> in 2012. And during college, I was exchanged to <a href="http://en.fcu.edu.tw/"> Feng Chia University </a> in 2010.
-I obtained my Ph.D. degree of Computer Applications Technology from the <a href="http://tca.iscas.ac.cn/"> TCA </a> lab at <a href="http://english.is.cas.cn/"> Institute of Software Chinese Academy of Sciences (ISCAS) </a> in 2012-2018,
-was co-advised by Professor <a href="https://dblp.org/pers/hd/s/Su:Purui"> Purui Su </a> and Professor <a href="https://dblp.uni-trier.de/pers/hd/f/Feng:Dengguo"> Dengguo Feng </a>. After, I worked as a Postdoc at the <a href="https://plato.ist.psu.edu/">Software Systems Security</a> lab headed by Professor <a href="https://faculty.ist.psu.edu/wu/">Dinghao Wu</a> in The Pennsylvania State University (PSU) in 2018-2019.<br>
+I obtained my B.E. degree of Information Security from Harbin Institute of Technology (HIT) in 2012. And during college, I was exchanged to Feng Chia University (Taiwan) in 2010.
+I obtained my Ph.D. degree of Computer Applications Technology from the <a href="http://tca.iscas.ac.cn/">TCA lab</a> at <a href="http://english.is.cas.cn/"> Institute of Software Chinese Academy of Sciences (ISCAS) </a> in 2012-2018,
+was co-advised by Professor <a href="https://dblp.org/pers/hd/s/Su:Purui"> Purui Su </a> and Professor <a href="https://dblp.uni-trier.de/pers/hd/f/Feng:Dengguo"> Dengguo Feng </a>. After, I worked as a Postdoc at the <a href="https://plato.ist.psu.edu/">Software Systems Security lab</a> headed by Professor <a href="https://faculty.ist.psu.edu/wu/">Dinghao Wu</a> in The Pennsylvania State University (PSU) in 2018-2019.<br>
 
 <p>
 My research interests focus on <b> software security</b>, including <b>program analysis</b>, <b>vulnerability analysis</b> and <b>malware detection</b>.
@@ -38,27 +38,62 @@ I am now working on fuzzing, program analysis and vulnerability exploitation. Th
 # 📝 Publications 
 
 <!-- 2022 --> 
-[Understanding and Mitigating Label Bias in Malware Classification: An Empirical Study](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
+- [Understanding and Mitigating Label Bias in Malware Classification: An Empirical Study](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 Jia Yan, **Xiangkun Jia**, Lingyun Ying, Jia Yan, Purui Su
+The 22nd IEEE International Conference on Software Quality, Reliability and Security (<b>QRS 2022</b>)
 
-**The 22nd IEEE International Conference on Software Quality, Reliability and Security (<b>QRS 2022</b>)**
+- [DitDetector: Bimodal Learning based on Deceptive Image and Text for Macro Malware Detection](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Jia Yan, Ming Wan, **Xiangkun Jia**, Lingyun Ying, Purui Su, Zhanyi Wang
+The Annual Computer Security Applications Conference (<b>ACSAC 2022</b>)
 
+- [HTFuzz: Heap Operation Sequence Sensitive Fuzzing](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Yuanping Yu, **Xiangkun Jia***, Yuwei Liu, Yanhao Wang, Qian Sang, Chao Zhang, Purui Su
+The 38th IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2022</b>)
+The code is released at <b>https://github.com/sharedata21/HTFuzz</b>
+
+- [Automatic exploitation generation method of write-what-where vulnerability](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Huafeng Huang, Purui Su, Yi Yang, **Xiangkun Jia**
+<b>Journal on Communications.</b> Vol. 43 No. 1, 2022. (in Chinese)
 <!-- 2022 --> 
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- 2021 -->
+- [InstruGuard: Find and Fix Instrumentation Errors for Coverage-based Greybox Fuzzing](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Yuwei Liu, Yanhao Wang, Purui Su, Yuanping Yu, **Xiangkun Jia***
+The 37th IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2021</b>)
+The code is released at <b>https://github.com/Marsman1996/instruguard</b>
+
+<!-- 2021 -->
+
+<!-- 2020 --> 
+- [Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Yanhao Wang, **Xiangkun Jia**, Yuwei Liu, Kyle Zeng, Tiffany Bao, Dinghao Wu, Purui Su
+The Network and Distributed System Security Symposium (<b>NDSS 2020</b>) 
+The code is released at <b>https://github.com/TortoiseFuzz/TortoiseFuzz</b>
+<!-- 2020 --> 
+
+<!-- phd --> 
+- [Towards Efficient Heap Overflow Discovery](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Xiangkun Jia**, Chao Zhang, Purui Su, Yi Yang, Huafeng Huang, Dengguo Feng
+Proceedings of the 26th USENIX Security Symposium (<b>Security 2017</b>)
+
+- [Automatically assessing crashes from heap overflows](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Liang He, Yan Cai, Hong Hu, Purui Su, Zhenkai Liang, Yi Yang, Huafeng Huang, Jia Yan, **Xiangkun Jia**, Dengguo Feng
+The 32nd IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2017</b>)
+
+- [Safety analysis and evaluation of security protocol implementation](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Xiangkun Jia**, Jia Yan, Purui Su
+<b>Bulletin of Chinese Association for Cryptologic Research.</b> Issue 6, 2014. (in Chinese)
+<!-- phd --> 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- The First Prize of "ZongHengBei" RHG AUTOPWN
+- The Third Prize of BCTF AUTOPWN (20200807) founded by Baidu
+- Internet security scholarship of CHINA internet development foundation in 2017
+- National Scholarship in 2017
+- Excellent graduate of Heilongjiang Province in China in 2012
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Professional Activities
+- Student PC for IEEE Symposium on Security and Privacy (Oakland), 2018
+- Sub-reviewer for Conferences including AsiaCCS'2021, ICICS'2021, ICICS'2020, CCS'2019, CNS'2019, CSET'17, RAID'17, VARA'17, CODASPY'16
+- Sub-reviewer for Journals including IEEE Transactions on Network and Service Management, Transactions on Software Engineering, Chinese Journal of Computers, Journal of Software, Chinese Journal of Electronics
