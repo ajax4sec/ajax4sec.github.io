@@ -17,21 +17,36 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiangkun Jia  I obtained my Ph.D. degree of Computer Applications Technology from the <a href="http://tca.iscas.ac.cn/"> TCA </a> lab, at <a href="http://english.is.cas.cn/"> Institute of Software Chinese Academy of Sciences (ISCAS) </a> in 2012-2018,
+I obtained my Ph.D. degree of Computer Applications Technology from the <a href="http://tca.iscas.ac.cn/"> TCA </a> lab, at <a href="http://english.is.cas.cn/"> Institute of Software Chinese Academy of Sciences (ISCAS) </a> in 2012-2018,
 co-advised by Professor <a href="https://dblp.org/pers/hd/s/Su:Purui"> Purui Su </a> and Professor <a href="https://dblp.uni-trier.de/pers/hd/f/Feng:Dengguo"> Dengguo Feng </a>.<br>
 I obtained my B.E. degree of Information Security from <a href="http://en.hit.edu.cn/">Harbin Institute of Technology (HIT)</a> in 2012.<br>
 I was exchanged to <a href="http://en.fcu.edu.tw/"> Feng Chia University </a> in 2010.<br>
 I was a Postdoc at the <a href="https://plato.ist.psu.edu/">Software Systems Security</a> lab headed by Professor <a href="https://faculty.ist.psu.edu/wu/">Dinghao Wu</a> in The Pennsylvania State University (PSU) in 2018-2019.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<p>
+<font size="+1">
+My research interests focus on <b> software security</b>, including <b>program analysis</b>, <b>vulnerability analysis</b> and <b>malware detection</b>.
+</font>
+The methods involve taint analysis, symbolic execution, fuzzing and reverse engineering. Machine-learning methods are also used for solving software security problems.
+<br>
+I am now working on fuzzing, program analysis and vulnerability exploit. There are several projects including: 
+</p>
+<div>
+<ul>                  
+<li><b>Vulnerability discovery/detection/assessment</b></li>
+<li><b>Application-oriented taint analysis system</b></li>
+<li><b>Malware detection and analysis platform</b></li>
+<li><b>Software supply chain security</b></li>
+</ul>
+</div>
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉 
 
 # 📝 Publications 
 
+<!-- 2022 --> 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -43,6 +58,7 @@ My research interest includes neural machine translation and computer vision. I 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+<!-- 2022 --> 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
