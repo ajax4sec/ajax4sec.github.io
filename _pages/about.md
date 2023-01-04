@@ -16,15 +16,13 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I obtained my B.E. degree of Information Security from <a href="http://en.hit.edu.cn/">Harbin Institute of Technology (HIT)</a> in 2012.<br> And during college, I was exchanged to <a href="http://en.fcu.edu.tw/"> Feng Chia University </a> in 2010.<br>
-I obtained my Ph.D. degree of Computer Applications Technology from the <a href="http://tca.iscas.ac.cn/"> TCA </a> lab, at <a href="http://english.is.cas.cn/"> Institute of Software Chinese Academy of Sciences (ISCAS) </a> in 2012-2018,
-co-advised by Professor <a href="https://dblp.org/pers/hd/s/Su:Purui"> Purui Su </a> and Professor <a href="https://dblp.uni-trier.de/pers/hd/f/Feng:Dengguo"> Dengguo Feng </a>.<br>\
-After, I worked as a Postdoc at the <a href="https://plato.ist.psu.edu/">Software Systems Security</a> lab headed by Professor <a href="https://faculty.ist.psu.edu/wu/">Dinghao Wu</a> in The Pennsylvania State University (PSU) in 2018-2019.
-
+I obtained my B.E. degree of Information Security from <a href="http://en.hit.edu.cn/">Harbin Institute of Technology (HIT)</a> in 2012. And during college, I was exchanged to <a href="http://en.fcu.edu.tw/"> Feng Chia University </a> in 2010.
+I obtained my Ph.D. degree of Computer Applications Technology from the <a href="http://tca.iscas.ac.cn/"> TCA </a> lab at <a href="http://english.is.cas.cn/"> Institute of Software Chinese Academy of Sciences (ISCAS) </a> in 2012-2018,
+was co-advised by Professor <a href="https://dblp.org/pers/hd/s/Su:Purui"> Purui Su </a> and Professor <a href="https://dblp.uni-trier.de/pers/hd/f/Feng:Dengguo"> Dengguo Feng </a>. After, I worked as a Postdoc at the <a href="https://plato.ist.psu.edu/">Software Systems Security</a> lab headed by Professor <a href="https://faculty.ist.psu.edu/wu/">Dinghao Wu</a> in The Pennsylvania State University (PSU) in 2018-2019.<br>
 
 <p>
 My research interests focus on <b> software security</b>, including <b>program analysis</b>, <b>vulnerability analysis</b> and <b>malware detection</b>.
-The methods involve taint analysis, symbolic execution, fuzzing and reverse engineering. I am now working on fuzzing, program analysis and vulnerability exploitation. There are several projects including: 
+I am now working on fuzzing, program analysis and vulnerability exploitation. There are several projects including: 
 </p>
 <div>
 <ul>                  
@@ -34,23 +32,18 @@ The methods involve taint analysis, symbolic execution, fuzzing and reverse engi
 </div>
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉 
+<!--# 🔥 News
+- *2022.02*: &nbsp;🎉 -->
 
 # 📝 Publications 
 
 <!-- 2022 --> 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+[Understanding and Mitigating Label Bias in Malware Classification: An Empirical Study](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+Jia Yan, **Xiangkun Jia**, Lingyun Ying, Jia Yan, Purui Su
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**The 22nd IEEE International Conference on Software Quality, Reliability and Security (<b>QRS 2022</b>)**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 <!-- 2022 --> 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
