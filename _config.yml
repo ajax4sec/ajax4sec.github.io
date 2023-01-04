@@ -21,14 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Xiangkun Jia(贾相堃)"
+  name             : "Xiangkun Jia"
   avatar           : "images/jia3.jpg"
-  bio              : #"Xiangkun Jia College"
+  bio              : "贾相堃"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "xiangkun@iscas.ac.cn"
+  email2            : #"xiangkun@iscas.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
