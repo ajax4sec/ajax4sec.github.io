@@ -38,8 +38,8 @@ I am now working on fuzzing, program analysis and vulnerability exploitation. Th
 # 📝 Publications 
 
 <!-- 2022 --> 
-- Understanding and Mitigating Label Bias in Malware Classification: An Empirical Study.[📄]()[📂]()<br>
-Jia Yan, **Xiangkun Jia**, Lingyun Ying, Jia Yan, Purui Su<br>
+- Understanding and Mitigating Label Bias in Malware Classification: An Empirical Study.[📄]()<br>
+Jia Yan, **Xiangkun Jia***, Lingyun Ying, Jia Yan, Purui Su<br>
 The 22nd IEEE International Conference on Software Quality, Reliability and Security (<b>QRS 2022</b>)<br>
 
 - DitDetector: Bimodal Learning based on Deceptive Image and Text for Macro Malware Detection.<br>
