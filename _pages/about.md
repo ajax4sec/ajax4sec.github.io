@@ -38,7 +38,7 @@ I am now working on fuzzing, program analysis and vulnerability exploitation. Th
 # 📝 Publications 
 
 <!-- 2022 --> 
-- Understanding and Mitigating Label Bias in Malware Classification: An Empirical Study.[📄]()<br>
+- Understanding and Mitigating Label Bias in Malware Classification: An Empirical Study.[📃]()<br>
 Jia Yan, **Xiangkun Jia***, Lingyun Ying, Jia Yan, Purui Su<br>
 The 22nd IEEE International Conference on Software Quality, Reliability and Security (<b>QRS 2022</b>)<br>
 
@@ -83,7 +83,7 @@ The 32nd IEEE/ACM International Conference on Automated Software Engineering (<b
 <b>Bulletin of Chinese Association for Cryptologic Research.</b> Issue 6, 2014. (in Chinese)<br>
 <!-- phd --> 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - The First Prize of "ZongHengBei" RHG AUTOPWN
 - The Third Prize of BCTF AUTOPWN (20200807) founded by Baidu
 - Internet security scholarship of CHINA internet development foundation in 2017
