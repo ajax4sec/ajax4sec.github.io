@@ -39,7 +39,7 @@ I am now working on fuzzing, program analysis and vulnerability exploitation. Th
 
 <!-- 2023 -->
 - LGBRoot: Local Graph-Based Automated Vulnerability Root Causes Analysis.[📃]()<br>
-Yuanping Yu, Purui Su, Huafeng Huang, **Xiangkun Jia***<br>
+Yuanping Yu, Purui Su, Huafeng Huang, **Xiangkun Jia**<br>
 <b>Journal of Software.</b> (CCF-T1, in Chinese)<br>
 
 - A fine-grained assessment method of vulnerability impact scope for PyPI ecosystem.[📃]()<br>
