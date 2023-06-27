@@ -37,46 +37,55 @@ I am now working on fuzzing, program analysis and vulnerability exploitation. Th
 
 # 📝 Publications 
 
+<!-- 2023 -->
+- LGBRoot: Local Graph-Based Automated Vulnerability Root Causes Analysis.[📃]()<br>
+Yuanping Yu, Purui Su, Huafeng Huang, **Xiangkun Jia***<br>
+<b>Journal of Software.</b> (CCF-T1, in Chinese)<br>
+
+- A fine-grained assessment method of vulnerability impact scope for PyPI ecosystem.[📃]()<br>
+Zibo Wang, **Xiangkun Jia***, Lingyun Ying, Purui Su<br>
+<b>Journal of Software.</b> (CCF-T1, in Chinese)<br>
+
 <!-- 2022 --> 
 - Understanding and Mitigating Label Bias in Malware Classification: An Empirical Study.[📃]()<br>
 Jia Yan, **Xiangkun Jia***, Lingyun Ying, Jia Yan, Purui Su<br>
-The 22nd IEEE International Conference on Software Quality, Reliability and Security (<b>QRS 2022</b>)<br>
+The 22nd IEEE International Conference on Software Quality, Reliability and Security (<b>QRS 2022, CCF-C</b>)<br>
 
 - DitDetector: Bimodal Learning based on Deceptive Image and Text for Macro Malware Detection.<br>
 Jia Yan, Ming Wan, **Xiangkun Jia**, Lingyun Ying, Purui Su, Zhanyi Wang<br>
-The Annual Computer Security Applications Conference (<b>ACSAC 2022</b>)<br>
+The Annual Computer Security Applications Conference (<b>ACSAC 2022, CCF-B</b>)<br>
 
 - HTFuzz: Heap Operation Sequence Sensitive Fuzzing.[📂](https://github.com/sharedata21/HTFuzz)<br>
 Yuanping Yu, **Xiangkun Jia***, Yuwei Liu, Yanhao Wang, Qian Sang, Chao Zhang, Purui Su<br>
-The 38th IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2022</b>)<br>
+The 38th IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2022, CCF-A</b>)<br>
 
 
 - Automatic exploitation generation method of write-what-where vulnerability.<br>
 Huafeng Huang, Purui Su, Yi Yang, **Xiangkun Jia**<br>
-<b>Journal on Communications.</b> Vol. 43 No. 1, 2022. (in Chinese)<br>
+<b>Journal on Communications.</b> Vol. 43 No. 1, 2022. (CCF-T1, in Chinese)<br>
 <!-- 2022 --> 
 
 <!-- 2021 -->
 - InstruGuard: Find and Fix Instrumentation Errors for Coverage-based Greybox Fuzzing.[📂](https://github.com/Marsman1996/instruguard)<br>
 Yuwei Liu, Yanhao Wang, Purui Su, Yuanping Yu, **Xiangkun Jia***<br>
-The 37th IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2021</b>)<br>
+The 37th IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2021, CCF-A</b>)<br>
 
 <!-- 2021 -->
 
 <!-- 2020 --> 
 - Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization.[📂](https://github.com/TortoiseFuzz/TortoiseFuzz)<br>
 Yanhao Wang, **Xiangkun Jia**, Yuwei Liu, Kyle Zeng, Tiffany Bao, Dinghao Wu, Purui Su<br>
-The Network and Distributed System Security Symposium (<b>NDSS 2020</b>)<br>
+The Network and Distributed System Security Symposium (<b>NDSS 2020, CCF-A</b>)<br>
 <!-- 2020 --> 
 
 <!-- phd --> 
 - Towards Efficient Heap Overflow Discovery.<br>
 **Xiangkun Jia**, Chao Zhang, Purui Su, Yi Yang, Huafeng Huang, Dengguo Feng<br>
-Proceedings of the 26th USENIX Security Symposium (<b>Security 2017</b>)<br>
+Proceedings of the 26th USENIX Security Symposium (<b>Security 2017, CCF-A</b>)<br>
 
 - Automatically assessing crashes from heap overflows.<br>
 Liang He, Yan Cai, Hong Hu, Purui Su, Zhenkai Liang, Yi Yang, Huafeng Huang, Jia Yan, **Xiangkun Jia**, Dengguo Feng<br>
-The 32nd IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2017</b>)<br>
+The 32nd IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2017, CCF-A</b>)<br>
 
 - Safety analysis and evaluation of security protocol implementation.<br>
 **Xiangkun Jia**, Jia Yan, Purui Su<br>
