@@ -18,14 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 I obtained my B.E. degree of Information Security from Harbin Institute of Technology (HIT) in 2012. And during college, I was exchanged to Feng Chia University (Taiwan) in 2010.
 I obtained my Ph.D. degree of Computer Applications Technology from the <a href="http://tca.iscas.ac.cn/">TCA lab</a> at <a href="http://english.is.cas.cn/"> Institute of Software Chinese Academy of Sciences (ISCAS) </a> in 2012-2018,
-was co-advised by Professor <a href="https://dblp.org/pers/hd/s/Su:Purui"> Purui Su </a> and Professor <a href="https://dblp.uni-trier.de/pers/hd/f/Feng:Dengguo"> Dengguo Feng </a>. After, I worked as a Postdoc at the <a href="https://plato.ist.psu.edu/">Software Systems Security lab</a> headed by Professor <a href="https://faculty.ist.psu.edu/wu/">Dinghao Wu</a> in The Pennsylvania State University (PSU) in 2018-2019.<br>
+was co-advised by Professor <a href="https://dblp.org/pers/hd/s/Su:Purui"> Purui Su </a> and Professor <a href="https://dblp.uni-trier.de/pers/hd/f/Feng:Dengguo"> Dengguo Feng </a>. After, I worked as a Postdoc at the Software Systems Security lab headed by Professor <a href="https://faculty.ist.psu.edu/wu/">Dinghao Wu</a> in The Pennsylvania State University (PSU) in 2018-2019.<br>
 
 <p>
 My research interests focus on <b> software security</b>, including <b>program analysis</b>, <b>vulnerability analysis</b> and <b>malware detection</b>.
 I am now working on fuzzing, program analysis and vulnerability exploitation. There are several projects including: 
 </p>
 <div>
-<ul>                  
+<ul>
+<li><b>Program (dynamic) analysis</b></li>                  
 <li><b>Vulnerability discovery/detection/assessment</b></li>
 <li><b>Patch analysis and software supply chain security</b></li>
 </ul>
