@@ -43,12 +43,12 @@ I am now working on fuzzing, program analysis and vulnerability exploitation. Th
 Yuanping Yu, Purui Su, Huafeng Huang, **Xiangkun Jia**<br>
 <b>Journal of Software.</b> (CCF-T1, in Chinese)<br>
 
-- A fine-grained assessment method of vulnerability impact scope for PyPI ecosystem.[📃]()<br>
+- A fine-grained assessment method of vulnerability impact scope for PyPI ecosystem.[]()<br>
 Zibo Wang, **Xiangkun Jia***, Lingyun Ying, Purui Su<br>
 <b>Journal of Software.</b> (CCF-T1, in Chinese)<br>
 
 <!-- 2022 --> 
-- Understanding and Mitigating Label Bias in Malware Classification: An Empirical Study.[📃]()<br>
+- Understanding and Mitigating Label Bias in Malware Classification: An Empirical Study.[]()<br>
 Jia Yan, **Xiangkun Jia***, Lingyun Ying, Jia Yan, Purui Su<br>
 The 22nd IEEE International Conference on Software Quality, Reliability and Security (<b>QRS 2022, CCF-C</b>)<br>
 
@@ -56,7 +56,7 @@ The 22nd IEEE International Conference on Software Quality, Reliability and Secu
 Jia Yan, Ming Wan, **Xiangkun Jia**, Lingyun Ying, Purui Su, Zhanyi Wang<br>
 The Annual Computer Security Applications Conference (<b>ACSAC 2022, CCF-B</b>)<br>
 
-- HTFuzz: Heap Operation Sequence Sensitive Fuzzing.[📂](https://github.com/sharedata21/HTFuzz)<br>
+- HTFuzz: Heap Operation Sequence Sensitive Fuzzing.[📂](https://github.com/TCA-ISCAS/HTFuzz)<br>
 Yuanping Yu, **Xiangkun Jia***, Yuwei Liu, Yanhao Wang, Qian Sang, Chao Zhang, Purui Su<br>
 The 38th IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2022, CCF-A</b>)<br>
 
@@ -67,14 +67,14 @@ Huafeng Huang, Purui Su, Yi Yang, **Xiangkun Jia**<br>
 <!-- 2022 --> 
 
 <!-- 2021 -->
-- InstruGuard: Find and Fix Instrumentation Errors for Coverage-based Greybox Fuzzing.[📂](https://github.com/Marsman1996/instruguard)<br>
+- InstruGuard: Find and Fix Instrumentation Errors for Coverage-based Greybox Fuzzing.[📂](https://github.com/TCA-ISCAS/InstruGuard)<br>
 Yuwei Liu, Yanhao Wang, Purui Su, Yuanping Yu, **Xiangkun Jia***<br>
 The 37th IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2021, CCF-A</b>)<br>
 
 <!-- 2021 -->
 
 <!-- 2020 --> 
-- Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization.[📂](https://github.com/TortoiseFuzz/TortoiseFuzz)<br>
+- Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization.[📂](https://github.com/TCA-ISCAS/TortoiseFuzz)<br>
 Yanhao Wang, **Xiangkun Jia**, Yuwei Liu, Kyle Zeng, Tiffany Bao, Dinghao Wu, Purui Su<br>
 The Network and Distributed System Security Symposium (<b>NDSS 2020, CCF-A</b>)<br>
 <!-- 2020 --> 
@@ -105,5 +105,5 @@ The 32nd IEEE/ACM International Conference on Automated Software Engineering (<b
 
 # 💻 Professional Activities
 - Student PC for IEEE Symposium on Security and Privacy (Oakland), 2018
-- Sub-reviewer for Conferences including ACNS'2023, AsiaCCS'2021, ICICS'2021, ICICS'2020, CCS'2019, CNS'2019, CSET'17, RAID'17, VARA'17, CODASPY'16
+- Sub-reviewer for Conferences including SecureComm'2023, ACNS'2023, AsiaCCS'2021, ICICS'2021, ICICS'2020, CCS'2019, CNS'2019, CSET'17, RAID'17, VARA'17, CODASPY'16
 - Sub-reviewer for Journals including IEEE Transactions on Network and Service Management, Transactions on Software Engineering, Chinese Journal of Computers, Journal of Software, Chinese Journal of Electronics
