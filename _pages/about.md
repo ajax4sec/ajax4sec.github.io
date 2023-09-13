@@ -41,11 +41,11 @@ I am now working on fuzzing, program analysis and vulnerability exploitation. Th
 <!-- 2023 -->
 - AFGen: Whole-Function Fuzzing for Applications and Libraries.[]()<br>
 Yuwei Liu, Yanhao Wang, Tiffany Bao, **Xiangkun Jia**, Zheng Zhang, Purui Su<br>
-IEEE Symposium on Security and Privacy 2024 (<b>S&P 2024.</b>)<br>
+IEEE Symposium on Security and Privacy 2024 (<b>S&P 2024, CCF-A.</b>)<br>
 
 - AirTaint: Making Dynamic Taint Analysis Faster and Easier.[]()<br>
 Qian Sang, Yanhao Wang, Yuwei Liu, **Xiangkun Jia***, Tiffany Bao, Purui Su<br>
-IEEE Symposium on Security and Privacy 2024 (<b>S&P 2024.</b>)<br>
+IEEE Symposium on Security and Privacy 2024 (<b>S&P 2024, CCF-A.</b>)<br>
 
 - LGBRoot: Local Graph-Based Automated Vulnerability Root Causes Analysis.[📃]()<br>
 Yuanping Yu, Purui Su, Huafeng Huang, **Xiangkun Jia**<br>
