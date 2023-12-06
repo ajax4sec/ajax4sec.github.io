@@ -26,9 +26,8 @@ I am now working on fuzzing, program analysis and vulnerability exploitation. Th
 </p>
 <div>
 <ul>
-<li><b>Program (dynamic) analysis</b></li>                  
-<li><b>Vulnerability discovery/detection/assessment</b></li>
-<li><b>Patch analysis and software supply chain security</b></li>
+<li><b>Dynamic program analysis</b></li>                  
+<li><b>Vulnerability discovery/analysis/assessment</b></li>
 </ul>
 </div>
 
