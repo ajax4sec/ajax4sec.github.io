@@ -22,12 +22,13 @@ was co-advised by Professor <a href="https://dblp.org/pers/hd/s/Su:Purui"> Purui
 
 <p>
 My research interests focus on <b> software security</b>, including <b>program analysis</b>, <b>vulnerability analysis</b> and <b>malware detection</b>.
-I am now working on fuzzing, program analysis and vulnerability exploitation. There are several projects including: 
+I am now working on several projects including: 
 </p>
 <div>
 <ul>
 <li><b>Dynamic program analysis</b></li>                  
-<li><b>Vulnerability discovery/analysis/assessment</b></li>
+<li><b>Vulnerability discovery based on fuzzing</b></li>
+<li><b>Patch analysis and software supply chain security</b></li>
 </ul>
 </div>
 
