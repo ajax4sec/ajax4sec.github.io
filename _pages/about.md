@@ -44,7 +44,7 @@ Qian Sang, Yanhao Wang, Yuwei Liu, **Xiangkun Jia***, Tiffany Bao, Purui Su<br>
 The 45th IEEE Symposium on Security and Privacy (<b>S&amp;P 2024, CCF-A</b>)<br>
 
 - AFGen: Whole-Function Fuzzing for Applications and Libraries.[]()<br>
-Yuwei Liu, Yanhao Wang, Tiffany Bao, **Xiangkun Jia**, Zheng Zhang, Purui Su<br>
+Yuwei Liu, Yanhao Wang, **Xiangkun Jia**, Zheng Zhang, Purui Su<br>
 The 45th IEEE Symposium on Security and Privacy (<b>S&amp;P 2024, CCF-A</b>)<br>
 
 - LGBRoot: Local Graph-Based Automated Vulnerability Root Causes Analysis.[📃]()<br>
