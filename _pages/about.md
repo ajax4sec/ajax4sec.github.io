@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 I obtained my B.E. degree of Information Security from Harbin Institute of Technology (HIT) in 2012. And during college, I was exchanged to Feng Chia University (Taiwan) in 2010.
-I obtained my Ph.D. degree of Computer Applications Technology from the <a href="http://tca.iscas.ac.cn/">TCA lab</a> at <a href="http://english.is.cas.cn/"> Institute of Software Chinese Academy of Sciences (ISCAS) </a> in 2012-2018,
+I obtained my Ph.D. degree of Computer Applications Technology from the TCA lab at <a href="http://english.is.cas.cn/"> Institute of Software Chinese Academy of Sciences (ISCAS) </a> in 2012-2018,
 was co-advised by Professor <a href="https://dblp.org/pers/hd/s/Su:Purui"> Purui Su </a> and Professor <a href="https://dblp.uni-trier.de/pers/hd/f/Feng:Dengguo"> Dengguo Feng </a>. After, I worked as a Postdoc at the Software Systems Security lab headed by Professor <a href="https://faculty.ist.psu.edu/wu/">Dinghao Wu</a> in The Pennsylvania State University (PSU) in 2018-2019.<br>
 
 <p>
@@ -54,6 +54,10 @@ Yuanping Yu, Purui Su, Huafeng Huang, **Xiangkun Jia**<br>
 - A fine-grained assessment method of vulnerability impact scope for PyPI ecosystem.[]()<br>
 Zibo Wang, **Xiangkun Jia***, Lingyun Ying, Purui Su<br>
 <b>Journal of Software.</b> (CCF-T1, in Chinese)<br>
+
+- Research Progress and Trends in Software Supply Chain Security.[📂Online](https://dl.ccf.org.cn/article/detail.html?_ack=1&id=6476813273516032)<br>
+**Xiangkun Jia**, Yuan Zhang, Jia Yan, Purui Su, Min Yang, Dengguo Feng<br>
+<b>2021-2022 China Computer Science and Technology Development Report.</b> (in Chinese)<br>
 
 <!-- 2022 --> 
 - Understanding and Mitigating Label Bias in Malware Classification: An Empirical Study.[]()<br>
@@ -112,6 +116,6 @@ The 32nd IEEE/ACM International Conference on Automated Software Engineering (<b
 
 
 # 💻 Professional Activities
-- Student PC for IEEE Symposium on Security and Privacy (Oakland), 2018
-- Sub-reviewer for Conferences including FC 2025, AsiaCCS 2025, USENIX Security 2024, CCS 2024, ASE 2024, SANER 2024, SecureComm'2023, ACNS'2023, AsiaCCS'2021, ICICS'2021, ICICS'2020, CCS'2019, CNS'2019, CSET'17, RAID'17, VARA'17, CODASPY'16
+- PC for Conferences including FC 2025, AsiaCCS 2025, USENIX Security 2024, CCS 2024, ASE 2024, SANER 2024
+- Sub-reviewer/Student PC for Conferences including SecureComm'2023, ACNS'2023, AsiaCCS'2021, ICICS'2021, ICICS'2020, CCS'2019, CNS'2019, S&P 2018, CSET'17, RAID'17, VARA'17, CODASPY'16
 - Sub-reviewer for Journals including IEEE Transactions on Network and Service Management, Transactions on Software Engineering, Chinese Journal of Computers, Journal of Software, Chinese Journal of Electronics
