@@ -22,7 +22,7 @@ was co-advised by Professor <a href="https://dblp.org/pers/hd/s/Su:Purui"> Purui
 
 <p>
 My research interests focus on <b> software engineering and software security</b>, including <b>program analysis</b>, <b>vulnerability analysis</b> and <b>malware detection</b>.
-I am now working on several projects including: 
+I am now working on several projects, including: 
 </p>
 <div>
 <ul>
@@ -118,4 +118,5 @@ The 32nd IEEE/ACM International Conference on Automated Software Engineering (<b
 # 💻 Professional Activities
 - PC for Conferences including CCS 2025, FC 2025, AsiaCCS 2025, USENIX Security 2024, CCS 2024, ASE 2024, SANER 2024
 - Sub-reviewer/Student PC for Conferences including SecureComm'2023, ACNS'2023, AsiaCCS'2021, ICICS'2021, ICICS'2020, CCS'2019, CNS'2019, S&P 2018, CSET'17, RAID'17, VARA'17, CODASPY'16
+- Youth Editor for Chinese Journal of Network and Information Security
 - Sub-reviewer for Journals including IEEE Transactions on Network and Service Management, Transactions on Software Engineering, Chinese Journal of Computers, Journal of Software, Chinese Journal of Electronics
