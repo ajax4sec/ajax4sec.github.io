@@ -64,7 +64,7 @@ Zibo Wang, **Xiangkun Jia***, Lingyun Ying, Purui Su<br>
 Jia Yan, **Xiangkun Jia***, Lingyun Ying, Jia Yan, Purui Su<br>
 The 22nd IEEE International Conference on Software Quality, Reliability and Security (<b>QRS 2022, CCF-C</b>)<br>
 
-- DitDetector: Bimodal Learning based on Deceptive Image and Text for Macro Malware Detection.<br>
+- DitDetector: Bimodal Learning based on Deceptive Image and Text for Macro Malware Detection.[📂Code](https://github.com/TCA-ISCAS/DitDetector)<br>
 Jia Yan, Ming Wan, **Xiangkun Jia**, Lingyun Ying, Purui Su, Zhanyi Wang<br>
 The Annual Computer Security Applications Conference (<b>ACSAC 2022, CCF-B</b>)<br>
 
