@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I obtained my B.E. degree of Information Security from Harbin Institute of Technology (HIT) in 2012. And during college, I was exchanged to Feng Chia University (Taiwan) in 2010.
-I obtained my Ph.D. degree of Computer Applications Technology from the TCA lab at <a href="http://english.is.cas.cn/"> Institute of Software Chinese Academy of Sciences (ISCAS) </a> in 2012-2018,
-was co-advised by Professor <a href="https://dblp.org/pers/hd/s/Su:Purui"> Purui Su </a> and Professor <a href="https://dblp.uni-trier.de/pers/hd/f/Feng:Dengguo"> Dengguo Feng </a>. After, I worked as a Postdoc at the Software Systems Security lab headed by Professor <a href="https://faculty.ist.psu.edu/wu/">Dinghao Wu</a> in The Pennsylvania State University (PSU) in 2018-2019.<br>
+I obtained my B.E. degree in Information Security from Harbin Institute of Technology (HIT) in 2012. During college, I was transferred to Feng Chia University (Taiwan) in 2010.
+I obtained my Ph.D. degree in Computer Applications Technology from the TCA lab at <a href="http://english.is.cas.cn/"> Institute of Software Chinese Academy of Sciences (ISCAS) </a> in 2012-2018,
+was co-advised by Professor <a href="https://people.ucas.ac.cn/~purui"> Purui Su </a> and Professor <a href="https://casad.cas.cn/ysxx2022/ysmd/xxjs/201911/t20191121_4724697.html"> Dengguo Feng </a>. After, I worked as a Postdoc at the Software Systems Security lab headed by Professor <a href="https://faculty.ist.psu.edu/wu/">Dinghao Wu</a> in The Pennsylvania State University (PSU) in 2018-2019.<br>
 
 <p>
 My research interests focus on <b> software engineering and software security</b>, including <b>program analysis</b>, <b>vulnerability analysis</b> and <b>malware detection</b>.
@@ -107,7 +107,7 @@ The 32nd IEEE/ACM International Conference on Automated Software Engineering (<b
 
 # 🏆 Honors and Awards
 - Supported by Youth Innovation Promotion Association CAS
-- Supported by Outstanding Science and Technology Talent Program of ISCAS
+- Supported by the Outstanding Science and Technology Talent Program of ISCAS
 - The First Prize of "ZongHengBei" RHG AUTOPWN
 - The Third Prize of BCTF AUTOPWN (20200807), founded by Baidu
 - Internet security scholarship of CHINA Internet Development Foundation in 2017
@@ -118,5 +118,5 @@ The 32nd IEEE/ACM International Conference on Automated Software Engineering (<b
 # 💻 Professional Activities
 - PC for Conferences including CCS 2025, FC 2025, AsiaCCS 2025, USENIX Security 2024, CCS 2024, ASE 2024, SANER 2024
 - Sub-reviewer/Student PC for Conferences including SecureComm'2023, ACNS'2023, AsiaCCS'2021, ICICS'2021, ICICS'2020, CCS'2019, CNS'2019, S&P 2018, CSET'17, RAID'17, VARA'17, CODASPY'16
-- Youth Editor for Chinese Journal of Network and Information Security
+- Youth Editor for the Chinese Journal of Network and Information Security
 - Sub-reviewer for Journals including IEEE Transactions on Network and Service Management, Transactions on Software Engineering, Chinese Journal of Computers, Journal of Software, Chinese Journal of Electronics
