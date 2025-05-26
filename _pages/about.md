@@ -38,15 +38,21 @@ I am now working on several projects, including:
 
 # 📝 Publications 
 
-<!-- 2023 -->
+<!-- 2025 -->
+- Towards Efficient C/C++ Vulnerability Impact Assessment in Package Management Systems.[]()<br>
+Zibo Wang, **Xiangkun Jia**, Jia Yan, Yi Yang, Huafeng Huang, Purui Su<br>
+The 27th International Conference on Information and Communications Security (<b>ICICS 2025, CCF-C</b>)<br>
+
+<!-- 2024 -->
 - AirTaint: Making Dynamic Taint Analysis Faster and Easier.[]()<br>
 Qian Sang, Yanhao Wang, Yuwei Liu, **Xiangkun Jia***, Tiffany Bao, Purui Su<br>
 The 45th IEEE Symposium on Security and Privacy (<b>S&amp;P 2024, CCF-A</b>)<br>
 
 - AFGen: Whole-Function Fuzzing for Applications and Libraries.[]()<br>
 Yuwei Liu, Yanhao Wang, **Xiangkun Jia**, Zheng Zhang, Purui Su<br>
-The 45th IEEE Symposium on Security and Privacy (<b>S&amp;P 2024, CCF-A</b>)<br>
+The 45th IEEE Symposium on Security and Privacy (<b>S&amp;P 2024, CCF-A</b>)<be>
 
+<!-- 2023 -->
 - LGBRoot: Local Graph-Based Automated Vulnerability Root Causes Analysis.[📃]()<br>
 Yuanping Yu, Purui Su, Huafeng Huang, **Xiangkun Jia**<br>
 <b>Journal of Software.</b> (CCF-T1, in Chinese)<br>
@@ -116,7 +122,7 @@ The 32nd IEEE/ACM International Conference on Automated Software Engineering (<b
 
 
 # 💻 Professional Activities
-- PC for Conferences including CCS 2025, FC 2025, AsiaCCS 2025, USENIX Security 2024, CCS 2024, ASE 2024, SANER 2024
+- PC for Conferences including CCS 2025, FUZZING 2025, FC 2025, AsiaCCS 2025, USENIX Security 2024, CCS 2024, ASE 2024, SANER 2024
 - Sub-reviewer/Student PC for Conferences including SecureComm'2023, ACNS'2023, AsiaCCS'2021, ICICS'2021, ICICS'2020, CCS'2019, CNS'2019, S&P 2018, CSET'17, RAID'17, VARA'17, CODASPY'16
-- Youth Editor for the Chinese Journal of Network and Information Security
-- Sub-reviewer for Journals including IEEE Transactions on Network and Service Management, Transactions on Software Engineering, Chinese Journal of Computers, Journal of Software, Chinese Journal of Electronics
+- Youth Editor for the Chinese Journal of Network and Information Security, Chinese Journal of Cyber Security
+- Reviewer for Journals including IEEE Transactions on Information Forensics & Security, IEEE Transactions on Network and Service Management, Transactions on Software Engineering, Chinese Journal of Computers, Journal of Software, Chinese Journal of Electronics
