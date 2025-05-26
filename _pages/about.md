@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 I obtained my B.E. degree in Information Security from Harbin Institute of Technology (HIT) in 2012. During college, I was transferred to Feng Chia University (Taiwan) in 2010.
-I obtained my Ph.D. degree in Computer Applications Technology from the TCA lab at <a href="http://english.is.cas.cn/"> Institute of Software Chinese Academy of Sciences (ISCAS) </a> in 2012-2018,
+I obtained my Ph.D. degree from the TCA lab at <a href="http://english.is.cas.cn/"> Institute of Software Chinese Academy of Sciences (ISCAS) </a> in 2012-2018,
 was co-advised by Professor <a href="https://people.ucas.ac.cn/~purui"> Purui Su </a> and Professor <a href="https://casad.cas.cn/ysxx2022/ysmd/xxjs/201911/t20191121_4724697.html"> Dengguo Feng </a>. After, I worked as a Postdoc at the Software Systems Security lab headed by Professor <a href="https://faculty.ist.psu.edu/wu/">Dinghao Wu</a> in The Pennsylvania State University (PSU) in 2018-2019.<br>
 
 <p>
