@@ -16,13 +16,15 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+I am now an Associate Professor in Purui Su's group in Institute of Software Chinese Academy of Sciences (ISCAS). And I am CCF Senior Member, CAAI Member, ACM Member, and IEEE Member.
+
 I obtained my B.E. degree in Information Security from Harbin Institute of Technology (HIT) in 2012. During college, I was transferred to Feng Chia University (Taiwan) in 2010.
 I obtained my Ph.D. degree from the TCA lab at <a href="http://english.is.cas.cn/"> Institute of Software Chinese Academy of Sciences (ISCAS) </a> in 2012-2018,
 was co-advised by Professor <a href="https://people.ucas.ac.cn/~purui"> Purui Su </a> and Professor <a href="https://casad.cas.cn/ysxx2022/ysmd/xxjs/201911/t20191121_4724697.html"> Dengguo Feng </a>. After, I worked as a Postdoc at the Software Systems Security lab headed by Professor <a href="https://faculty.ist.psu.edu/wu/">Dinghao Wu</a> in The Pennsylvania State University (PSU) in 2018-2019.<br>
 
 <p>
-My research interests focus on <b> software engineering and software security</b>, including <b>program analysis</b>, <b>vulnerability analysis</b> and <b>malware detection</b>.
-I am now working on several projects, including: 
+My research interests focus on <b> software engineering and software security</b>.
+I am now working on several projects supported by NSFC, CAS, and companies (e.g., Huawei and Ant Group), including: 
 </p>
 <div>
 <ul>
@@ -39,6 +41,10 @@ I am now working on several projects, including:
 # 📝 Publications 
 
 <!-- 2025 -->
+- PromeFuzz: A Knowledge-Driven Approach to Fuzzing Harness Generation with Large Language Models.[]()<br>
+Yuwei Liu, Junquan Deng, **Xiangkun Jia**, Yanhao Wang, Minghua Wang, Lin Huang, Tao Wei, Purui Su<br>
+The 32nd ACM Conference on Computer and Communications Security (<b>ACM CCS 2025, CCF-A</b>)<br>
+
 - Towards Efficient C/C++ Vulnerability Impact Assessment in Package Management Systems.[]()<br>
 Zibo Wang, **Xiangkun Jia**, Jia Yan, Yi Yang, Huafeng Huang, Purui Su<br>
 The 27th International Conference on Information and Communications Security (<b>ICICS 2025, CCF-C</b>)<br>
@@ -46,11 +52,11 @@ The 27th International Conference on Information and Communications Security (<b
 <!-- 2024 -->
 - AirTaint: Making Dynamic Taint Analysis Faster and Easier.[]()<br>
 Qian Sang, Yanhao Wang, Yuwei Liu, **Xiangkun Jia***, Tiffany Bao, Purui Su<br>
-The 45th IEEE Symposium on Security and Privacy (<b>S&amp;P 2024, CCF-A</b>)<br>
+The 45th IEEE Symposium on Security and Privacy (<b>IEEE S&amp;P 2024, CCF-A</b>)<br>
 
 - AFGen: Whole-Function Fuzzing for Applications and Libraries.[]()<br>
 Yuwei Liu, Yanhao Wang, **Xiangkun Jia**, Zheng Zhang, Purui Su<br>
-The 45th IEEE Symposium on Security and Privacy (<b>S&amp;P 2024, CCF-A</b>)<be>
+The 45th IEEE Symposium on Security and Privacy (<b>IEEE S&amp;P 2024, CCF-A</b>)<be>
 
 <!-- 2023 -->
 - LGBRoot: Local Graph-Based Automated Vulnerability Root Causes Analysis.[📃]()<br>
@@ -78,24 +84,20 @@ The Annual Computer Security Applications Conference (<b>ACSAC 2022, CCF-B</b>)<
 Yuanping Yu, **Xiangkun Jia***, Yuwei Liu, Yanhao Wang, Qian Sang, Chao Zhang, Purui Su<br>
 The 38th IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2022, CCF-A</b>)<br>
 
-
 - Automatic exploitation generation method of write-what-where vulnerability.<br>
 Huafeng Huang, Purui Su, Yi Yang, **Xiangkun Jia**<br>
 <b>Journal on Communications.</b> Vol. 43 No. 1, 2022. (CCF-T1, in Chinese)<br>
-<!-- 2022 --> 
 
 <!-- 2021 -->
 - InstruGuard: Find and Fix Instrumentation Errors for Coverage-based Greybox Fuzzing.[📂Code](https://github.com/TCA-ISCAS/InstruGuard)<br>
 Yuwei Liu, Yanhao Wang, Purui Su, Yuanping Yu, **Xiangkun Jia***<br>
 The 37th IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2021, CCF-A</b>)<br>
 
-<!-- 2021 -->
 
 <!-- 2020 --> 
 - Not All Coverage Measurements Are Equal: Fuzzing by Coverage Accounting for Input Prioritization.[📂Code](https://github.com/TCA-ISCAS/TortoiseFuzz)<br>
 Yanhao Wang, **Xiangkun Jia**, Yuwei Liu, Kyle Zeng, Tiffany Bao, Dinghao Wu, Purui Su<br>
 The Network and Distributed System Security Symposium (<b>NDSS 2020, CCF-A</b>)<br>
-<!-- 2020 --> 
 
 <!-- phd --> 
 - Towards Efficient Heap Overflow Discovery.<br>
@@ -122,7 +124,7 @@ The 32nd IEEE/ACM International Conference on Automated Software Engineering (<b
 
 
 # 💻 Professional Activities
-- PC for Conferences including CCS 2025, FUZZING 2025, FC 2025, AsiaCCS 2025, USENIX Security 2024, CCS 2024, ASE 2024, SANER 2024
+- PC for Conferences including NDSS 2026, USENIX Sec 2026, FC 2026, CCS 2025, FUZZING 2025, FC 2025, AsiaCCS 2025, USENIX Security 2024, CCS 2024, ASE 2024, SANER 2024
 - Sub-reviewer/Student PC for Conferences including SecureComm'2023, ACNS'2023, AsiaCCS'2021, ICICS'2021, ICICS'2020, CCS'2019, CNS'2019, S&P 2018, CSET'17, RAID'17, VARA'17, CODASPY'16
 - Youth Editor for the Chinese Journal of Network and Information Security, Chinese Journal of Cyber Security
 - Reviewer for Journals including IEEE Transactions on Information Forensics & Security, IEEE Transactions on Network and Service Management, Transactions on Software Engineering, Chinese Journal of Computers, Journal of Software, Chinese Journal of Electronics
