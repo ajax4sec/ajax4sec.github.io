@@ -41,11 +41,11 @@ I am now working on several projects supported by NSFC, CAS, and companies (e.g.
 # 📝 Publications 
 
 <!-- 2025 -->
-- PromeFuzz: A Knowledge-Driven Approach to Fuzzing Harness Generation with Large Language Models.[]()<br>
+- PromeFuzz: A Knowledge-Driven Approach to Fuzzing Harness Generation with Large Language Models.[📂Code](https://github.com/TCA-ISCAS/PromeFuzz-ccs-2025)<br>
 Yuwei Liu, Junquan Deng, **Xiangkun Jia**, Yanhao Wang, Minghua Wang, Lin Huang, Tao Wei, Purui Su<br>
 The 32nd ACM Conference on Computer and Communications Security (<b>ACM CCS 2025, CCF-A</b>)<br>
 
-- Towards Efficient C/C++ Vulnerability Impact Assessment in Package Management Systems.[]()<br>
+- Towards Efficient C/C++ Vulnerability Impact Assessment in Package Management Systems.[📂Data](https://github.com/TCA-ISCAS/PackShield-icics-2025)<br>
 Zibo Wang, **Xiangkun Jia**, Jia Yan, Yi Yang, Huafeng Huang, Purui Su<br>
 The 27th International Conference on Information and Communications Security (<b>ICICS 2025, CCF-C</b>)<br>
 
@@ -54,7 +54,7 @@ The 27th International Conference on Information and Communications Security (<b
 Qian Sang, Yanhao Wang, Yuwei Liu, **Xiangkun Jia***, Tiffany Bao, Purui Su<br>
 The 45th IEEE Symposium on Security and Privacy (<b>IEEE S&amp;P 2024, CCF-A</b>)<br>
 
-- AFGen: Whole-Function Fuzzing for Applications and Libraries.[]()<br>
+- AFGen: Whole-Function Fuzzing for Applications and Libraries.[📂Data](https://github.com/TCA-ISCAS/AFGen-sp-2024)<br>
 Yuwei Liu, Yanhao Wang, **Xiangkun Jia**, Zheng Zhang, Purui Su<br>
 The 45th IEEE Symposium on Security and Privacy (<b>IEEE S&amp;P 2024, CCF-A</b>)<be>
 
@@ -124,7 +124,7 @@ The 32nd IEEE/ACM International Conference on Automated Software Engineering (<b
 
 
 # 💻 Academic Services
-- PC for Conferences including NDSS 2026, USENIX Sec 2026, FC 2026, CCS 2025, FUZZING 2025, FC 2025, AsiaCCS 2025, USENIX Security 2024, CCS 2024, ASE 2024, SANER 2024
+- PC for Conferences including NDSS 2026, USENIX Sec 2026, FC 2026, CCS 2025 (Top Reviewer), FUZZING 2025, FC 2025, AsiaCCS 2025, USENIX Security 2024, CCS 2024, ASE 2024, SANER 2024
 - Sub-reviewer/Student PC for Conferences including SecureComm'2023, ACNS'2023, AsiaCCS'2021, ICICS'2021, ICICS'2020, CCS'2019, CNS'2019, S&P 2018, CSET'17, RAID'17, VARA'17, CODASPY'16
 - Youth Editor for the Chinese Journal of Network and Information Security, Chinese Journal of Cyber Security
 - Reviewer for Journals including IEEE Transactions on Information Forensics & Security, IEEE Transactions on Network and Service Management, Transactions on Software Engineering, Chinese Journal of Computers, Journal of Software, Chinese Journal of Electronics
