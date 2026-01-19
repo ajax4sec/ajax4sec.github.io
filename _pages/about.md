@@ -106,7 +106,7 @@ The Network and Distributed System Security Symposium (<b>NDSS 2020, CCF-A</b>)<
 <!-- phd --> 
 - Towards Efficient Heap Overflow Discovery.<br>
 **Xiangkun Jia**, Chao Zhang, Purui Su, Yi Yang, Huafeng Huang, Dengguo Feng<br>
-Proceedings of the 26th USENIX Security Symposium (<b>Security 2017, CCF-A</b>)<br>
+The 26th USENIX Security Symposium (<b>USENIX Sec 2017, CCF-A</b>)<br>
 
 - Automatically assessing crashes from heap overflows.<br>
 Liang He, Yan Cai, Hong Hu, Purui Su, Zhenkai Liang, Yi Yang, Huafeng Huang, Jia Yan, **Xiangkun Jia**, Dengguo Feng<br>
