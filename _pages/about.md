@@ -30,7 +30,7 @@ I am now working on several projects supported by NSFC, CAS, and companies (e.g.
 <ul>
 <li><b>Dynamic program analysis</b></li>                  
 <li><b>Vulnerability discovery based on fuzzing</b></li>
-<li><b>Patch analysis and software supply chain security</b></li>
+<li><b>Patch analysis and software supply chain</b></li>
 </ul>
 </div>
 
