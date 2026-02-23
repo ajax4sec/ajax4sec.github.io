@@ -45,7 +45,7 @@ I am now working on several projects supported by NSFC, CAS, and companies (e.g.
 
 # 📝 Publications 
 <!-- 2026 -->
-- MulcoTaint: Towards Efficient Multi-tag Dynamic Taint Analysis via Hardware/Software Co-design.[📂Data](https://zenodo.org/records/17939551)<br>
+- MulcoTaint: Towards Efficient Multi-tag Dynamic Taint Analysis via Hardware/Software Co-design.[📂Data](https://github.com/TCA-ISCAS/MulcoTaint-UsenixSec-2026)<br>
 Bing Qi, Yi Yang, **Xiangkun Jia**, Zhengpin Qian, Huafeng Huang, Purui Su<br>
 The 35th USENIX Security Symposium (<b>USENIX Sec 2026, CCF-A</b>)<br>
 
