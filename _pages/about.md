@@ -36,17 +36,17 @@ I am now working on several projects supported by NSFC, CAS, and companies (e.g.
 
 # 💻 Academic Services
 - PC for Conferences including CCS 2026/2025 (Top Reviewer)/2024, USENIX Sec 2027/2026/2024, NDSS 2026, FC 2026/2025, ACNS 2026, RAID 2026, AsiaCCS 2025, FUZZING 2025, ASE 2024, SANER 2024
-- Sub-reviewer/Student PC for Conferences including SecureComm'2023, ACNS'2023, AsiaCCS'2021, ICICS'2021, ICICS'2020, CCS'2019, CNS'2019, S&P 2018, CSET'17, RAID'17, VARA'17, CODASPY'16
 - Youth Editor for the Chinese Journal of Network and Information Security, Chinese Journal of Cyber Security
 - Reviewer for Journals including IEEE Transactions on Information Forensics & Security (TIFS), IEEE Transactions on Dependable and Secure Computing (TDSC), IEEE Transactions on Network and Service Management (TNSM), Transactions on Software Engineering and Methodology (TOSEM), Transactions on Software Engineering (TSE), Information and Software Technology (IST), Journal of Systems and Software (JSS), Chinese Journal of Computers, Journal of Software, Chinese Journal of Electronics
+- Sub-reviewer/Student PC for Conferences including SecureComm'2023, ACNS'2023, AsiaCCS'2021, ICICS'2021, ICICS'2020, CCS'2019, CNS'2019, S&P 2018, CSET'17, RAID'17, VARA'17, CODASPY'16
 
 <!--# 🔥 News
 - *2022.02*: &nbsp;🎉 -->
 
 # 📝 Publications 
 <!-- 2026 -->
-- Arithmetic-aware Targeted Fuzzing for Integer Overflow Vulnerability Detection in Virtual Devices.[]()<br>
-Zhenghao Li, Xiangkun Jia, Jia Yan and Purui Su<br>
+- Arithmetic-aware Targeted Fuzzing for Integer Overflow Vulnerability Detection in Virtual Devices.[📂Code](https://github.com/TCA-ISCAS/AriTuzz-icsme-2026)<br>
+Zhenghao Li, **Xiangkun Jia**, Jia Yan and Purui Su<br>
 The 42nd InternationalConference on SoftwareMaintenance and Evolution (<b>ICSME 2026, CCF-B</b>)<br>
 
 - Python Semantic Fuzzing Solution for API Interaction.[]()<br>
@@ -59,7 +59,7 @@ The 35th USENIX Security Symposium (<b>USENIX Sec 2026, CCF-A</b>)<br>
 
 <!-- 2025 -->
 - PromeFuzz: A Knowledge-Driven Approach to Fuzzing Harness Generation with Large Language Models.[📂Code](https://github.com/TCA-ISCAS/PromeFuzz-ccs-2025)<br>
-Yuwei Liu, Junquan Deng, **Xiangkun Jia**, Yanhao Wang, Minghua Wang, Lin Huang, Tao Wei, Purui Su<br>
+Yuwei Liu, Junquan Deng, **Xiangkun Jia**&#9993;, Yanhao Wang, Minghua Wang, Lin Huang, Tao Wei, Purui Su<br>
 The 32nd ACM Conference on Computer and Communications Security (<b>ACM CCS 2025, CCF-A</b>)<br>
 
 - Towards Efficient C/C++ Vulnerability Impact Assessment in Package Management Systems.[📂Data](https://github.com/TCA-ISCAS/PackShield-icics-2025)<br>
@@ -68,7 +68,7 @@ The 27th International Conference on Information and Communications Security (<b
 
 <!-- 2024 -->
 - AirTaint: Making Dynamic Taint Analysis Faster and Easier.[]()<br>
-Qian Sang, Yanhao Wang, Yuwei Liu, **Xiangkun Jia***, Tiffany Bao, Purui Su<br>
+Qian Sang, Yanhao Wang, Yuwei Liu, **Xiangkun Jia**&#9993;, Tiffany Bao, Purui Su&#9993;<br>
 The 45th IEEE Symposium on Security and Privacy (<b>IEEE S&amp;P 2024, CCF-A</b>)<br>
 
 - AFGen: Whole-Function Fuzzing for Applications and Libraries.[📂Data](https://github.com/TCA-ISCAS/AFGen-sp-2024)<br>
@@ -81,7 +81,7 @@ Yuanping Yu, Purui Su, Huafeng Huang, **Xiangkun Jia**<br>
 <b>Journal of Software.</b> (CCF-T1, in Chinese)<br>
 
 - A fine-grained assessment method of vulnerability impact scope for PyPI ecosystem.[]()<br>
-Zibo Wang, **Xiangkun Jia***, Lingyun Ying, Purui Su<br>
+Zibo Wang, **Xiangkun Jia**, Lingyun Ying, Purui Su<br>
 <b>Journal of Software.</b> (CCF-T1, in Chinese)<br>
 
 - Research Progress and Trends in Software Supply Chain Security.[📂Online](https://dl.ccf.org.cn/article/detail.html?_ack=1&id=6476813273516032)<br>
@@ -90,7 +90,7 @@ Zibo Wang, **Xiangkun Jia***, Lingyun Ying, Purui Su<br>
 
 <!-- 2022 --> 
 - Understanding and Mitigating Label Bias in Malware Classification: An Empirical Study.[]()<br>
-Jia Yan, **Xiangkun Jia***, Lingyun Ying, Jia Yan, Purui Su<br>
+Jia Yan, **Xiangkun Jia**, Lingyun Ying, Jia Yan, Purui Su<br>
 The 22nd IEEE International Conference on Software Quality, Reliability and Security (<b>QRS 2022, CCF-C</b>)<br>
 
 - DitDetector: Bimodal Learning based on Deceptive Image and Text for Macro Malware Detection.[📂Code](https://github.com/TCA-ISCAS/DitDetector)<br>
@@ -98,7 +98,7 @@ Jia Yan, Ming Wan, **Xiangkun Jia**, Lingyun Ying, Purui Su, Zhanyi Wang<br>
 The Annual Computer Security Applications Conference (<b>ACSAC 2022, CCF-B</b>)<br>
 
 - HTFuzz: Heap Operation Sequence Sensitive Fuzzing.[📂Code](https://github.com/TCA-ISCAS/HTFuzz)<br>
-Yuanping Yu, **Xiangkun Jia***, Yuwei Liu, Yanhao Wang, Qian Sang, Chao Zhang, Purui Su<br>
+Yuanping Yu, **Xiangkun Jia**, Yuwei Liu, Yanhao Wang, Qian Sang, Chao Zhang, Purui Su<br>
 The 38th IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2022, CCF-A</b>)<br>
 
 - Automatic exploitation generation method of write-what-where vulnerability.<br>
@@ -107,7 +107,7 @@ Huafeng Huang, Purui Su, Yi Yang, **Xiangkun Jia**<br>
 
 <!-- 2021 -->
 - InstruGuard: Find and Fix Instrumentation Errors for Coverage-based Greybox Fuzzing.[📂Code](https://github.com/TCA-ISCAS/InstruGuard)<br>
-Yuwei Liu, Yanhao Wang, Purui Su, Yuanping Yu, **Xiangkun Jia***<br>
+Yuwei Liu, Yanhao Wang, Purui Su, Yuanping Yu, **Xiangkun Jia**&#9993;<br>
 The 37th IEEE/ACM International Conference on Automated Software Engineering (<b>ASE 2021, CCF-A</b>)<br>
 
 
